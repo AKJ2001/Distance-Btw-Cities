@@ -1,4 +1,4 @@
-# Distance-Btw-Cities
+# Distance Btw Cities
 Welcome to the **Distance between Cities** project! This interactive web application showcases the seamless integration of Google Maps API to provide users with a valuable tool for calculating distances, travel times, and visualizing routes between different cities.
 
 **Key Features:**

@@ -4,7 +4,7 @@ Welcome to the **Distance between Cities** project! This interactive web applica
 **Key Features:**
 - **Google Maps API Integration:** We've harnessed the power of Google Maps API to create a user-friendly interface that allows you to input your desired destination and current location.
 
-- **Front-end Technologies:** Our project leverages a combination of HTML, CSS, jQuery, and Bootstrap to craft a visually appealing and responsive design, ensuring an optimal user experience across various devices.
+- **Front-end Technologies:** My project leverages a combination of HTML, CSS, jQuery, and Bootstrap to craft a visually appealing and responsive design, ensuring an optimal user experience across various devices.
 
 - **Efficient Data Processing:** JavaScript takes the center stage in fetching and processing data. It enables us to dynamically calculate distances, visualize routes, and display essential travel information.
 
